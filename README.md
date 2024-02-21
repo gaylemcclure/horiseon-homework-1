@@ -2,7 +2,7 @@
 
 ## Description
 
-I updated the HTML file to include more Semantic HTML tags, correct ordering of elements, and correct usage of icons and images. 
+This SEO marketing agency has updated their webpage to include more semantic HTML elements, correct ordering of elements, and functional images and icons, all increasing their ability to reach a bigger audience. 
 
 ## Installation
 
@@ -10,8 +10,7 @@ N/A
 
 ## Usage
 
-Each section contains notes on a topic such as HTML, CSS, Javascript and Git. For a suggestion on which topic to study, open the console (CTRL + Shift + i) you can see the results of the inbuilt javascript functions. 
-
+The HTML of the website can be seen in the index.html file, or also inspected in Dev Tools (CTrl + Shift + i)
 
 ## Credits
 
